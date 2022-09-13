@@ -96,3 +96,35 @@ h1 {
     background-color: rgb(21, 110, 110);
     height: 700px;
 }
+
+.img-menu1{
+    max-width: 100px;
+    max-height: 100px;
+    margin-top: 40px;
+    margin-left: 220px;
+}
+
+.btn-group{
+    margin-left: 200px;
+}
+
+.titulo2{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+.logo2{
+    max-width: 75px;
+    max-height: 75px;
+}
+
+.img-menu2{
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.btn-group2{
+    margin-left: 150px;
+}
