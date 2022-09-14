@@ -93,7 +93,7 @@ h1 {
 }
 
 .fondo2{
-    background-color: rgb(21, 110, 110);
+    background-color: #158f97;
     height: 700px;
 }
 
@@ -127,4 +127,10 @@ h1 {
 
 .btn-group2{
     margin-left: 150px;
+}
+
+.img2{
+    max-width: 70px;
+    max-height: 70px;
+    margin-left: 30px;
 }
