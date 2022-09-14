@@ -104,9 +104,6 @@ h1 {
     margin-left: 220px;
 }
 
-.btn-group{
-    margin-left: 200px;
-}
 
 .titulo2{
     margin-left: 400px;
@@ -123,7 +120,7 @@ h1 {
     max-width: 100px;
     max-height: 100px;
     margin-left: 150px;
-    margin-top: 40px;
+    margin-top: -650px;
 }
 
 .btn-group2{
