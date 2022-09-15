@@ -135,4 +135,9 @@ h1 {
 
 .btn-group{
     margin-left: 180px;
+    margin-top: -180px;
+}
+
+.logo-prin{
+    margin-left: 300px;
 }
