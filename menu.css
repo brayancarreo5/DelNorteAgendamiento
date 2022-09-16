@@ -10,9 +10,12 @@
 .img2{
     max-width: 40px;
     max-height: 40px;
+    margin-top: -10px;
 }
 
 h1 {
     color: #abc241;
+    font-family: arial bold;
+    margin-left: 400px;
     
 }
