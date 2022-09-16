@@ -1,0 +1,21 @@
+.fondo2{
+    background-color: #158f97;
+}
+
+.logo2{
+    max-width: 70px;
+    max-height: 70px;
+}
+
+.img2{
+    max-width: 40px;
+    max-height: 40px;
+    margin-top: -10px;
+}
+
+h1 {
+    color: #abc241;
+    font-family: arial bold;
+    margin-left: 380px;
+    
+}
