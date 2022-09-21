@@ -1,0 +1,25 @@
+.verde-letra{
+    color: #158f97;
+    font-family: arial bold;
+    font-size: 290%;
+}
+
+.triangulo{
+    width: 0;
+    height: 0;
+    border-right:200px solid transparent;
+    border-top: 200px solid transparent;
+    border-left: 200px solid #abc241;
+    border-bottom:200px solid #abc241;
+
+}
+
+.triangulo-2{
+    width: 0;
+    height: 0;
+    border-right:180px solid transparent;
+    border-top: 180px solid transparent;
+    border-left: 180px solid #158f97;
+    border-bottom:170px solid #158f97;
+
+}
