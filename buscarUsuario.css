@@ -1,0 +1,20 @@
+.fondo{
+    background-color: #158f97 !important; 
+}
+.Buscar{
+    border-color: black;
+
+}
+.verde-letra{
+    color: #abc241;
+    font-family: arial bold;
+    font-size: 290%;
+}
+.Tabla-contenido{
+    background-color: white;
+    line-height: 20px;
+    text-decoration-color: #abc241;
+    margin-left: 20px;
+    width: 1233px;
+    border-radius: 7px;
+}
