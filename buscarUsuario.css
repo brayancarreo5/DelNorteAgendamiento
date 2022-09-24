@@ -1,10 +1,12 @@
 .fondo{
     background-color: #158f97 !important; 
 }
-.Buscar{
-    border-color: black;
-
+.input-group {
+    margin-left: 35%;
+    color: black;
+    background-color:#abc241 ;
 }
+
 .verde-letra{
     color: #abc241;
     font-family: arial bold;
