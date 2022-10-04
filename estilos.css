@@ -88,6 +88,49 @@ h1 {
     font-family: arial bold;
 }
 
-{
-    
+
+
+.img-menu1{
+    max-width: 100px;
+    max-height: 100px;
+    margin-top: 120px;
+    margin-left: 220px;
+}
+
+
+.titulo2{
+    margin-left: 400px;
+    margin-top: -50px;
+}
+
+.logo2{
+    max-width: 75px;
+    max-height: 75px;
+    margin-left: 30px;
+}
+
+.img-menu2{
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 150px;
+    margin-top: -650px;
+}
+
+.btn-group2{
+    margin-left: 150px;
+}
+
+.img2{
+    max-width: 70px;
+    max-height: 70px;
+    margin-left: 30px;
+}
+
+.btn-group{
+    margin-left: 180px;
+    margin-top: -180px;
+}
+
+.logo-prin{
+    margin-left: 300px;
 }
